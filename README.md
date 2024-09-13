@@ -1,2 +1,2 @@
 # Lunar_Crater_Detection
-The lunar surface is filled with craters, sizes ranging anywhere from few centimeters to hundreds of kilometers. 
+The repository showcases the code and theory put forth for my Masters' thesis project on detection of lunar surface craters using images from Chandrayaan 2.
